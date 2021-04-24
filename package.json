@@ -1,0 +1,17 @@
+{
+  "name": "module-name",
+  "version": "0.0.1",
+  "description": "✨ Module Template.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "author": "Mert Çelik",
+  "license": "MIT",
+  "dependencies": {},
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mertcelik2196/"
+  }
+}
